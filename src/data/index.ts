@@ -8,26 +8,26 @@ import propxImg from "../../public/propx.png";
 import frescoGuardImg from "../../public/frescoGuard.png";
 
 export const projectList = [
-  {
-    id: 4,
-    title: "StudyNotion An Edtech Platform",
-    category: "Full Stack",
-    tag: "top",
-    image: shareMeImg,
-    description:
-      "This web application allows users to shares photographs and showcase their photography skills and download them. ",
-    tech: [
-      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
-      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
-      "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg",
-      "https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-    ],
-    url: "https://shareme-frontend-kappa.vercel.app/",
-    github: "https://github.com/Laksheya/shareme",
-    features: [""],
-    detailedDescription:
-      "This project implements GitOps methodology for managing infrastructure, specifically for a web application. It utilizes Argo CD for continuous delivery and integrates with Kubernetes for container orchestration.",
-  },
+  // {
+  //   id: 4,
+  //   title: "StudyNotion An Edtech Platform",
+  //   category: "Full Stack",
+  //   tag: "top",
+  //   image: shareMeImg,
+  //   description:
+  //     "This web application allows users to shares photographs and showcase their photography skills and download them. ",
+  //   tech: [
+  //     "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+  //     "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+  //     "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg",
+  //     "https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+  //   ],
+  //   url: "https://shareme-frontend-kappa.vercel.app/",
+  //   github: "https://github.com/Laksheya/shareme",
+  //   features: [""],
+  //   detailedDescription:
+  //     "This project implements GitOps methodology for managing infrastructure, specifically for a web application. It utilizes Argo CD for continuous delivery and integrates with Kubernetes for container orchestration.",
+  // },
   // {
   //   id: 1,
   //   tag: "top",
